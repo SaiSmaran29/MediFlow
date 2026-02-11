@@ -1,0 +1,5 @@
+{
+  "name": "MediFlow: Integrated Clinical Coordination",
+  "description": "A patient-centric clinical workflow system designed to streamline coordination between doctors, nurses, pharmacies, and diagnostic units through a real-time, unified patient record and timeline.",
+  "requestFramePermissions": []
+}
